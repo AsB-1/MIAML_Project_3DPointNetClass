@@ -1,1 +1,1 @@
-# MIAML_Project_3DPointNetClass
+# Progetto MIAML: Classificazione forme 3D in interne ed esterne con PointNet
